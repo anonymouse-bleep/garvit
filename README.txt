@@ -1,6 +1,5 @@
-Hyperspace by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Prtfolio design | an0nym3sh
+Free for personal and commercial use under the CCA 3.0 license 
 
 
 So I've had the wireframe for this particular design kicking around for some time, but with all
@@ -15,8 +14,8 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
+Animesh Ashish
+an0nym3sh
 
 
 Credits:
